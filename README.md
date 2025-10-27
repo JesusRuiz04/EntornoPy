@@ -1,4 +1,4 @@
-# Estructuras de Datos y GUI con Python
+# EntornoPy - Estructuras de Datos y GUI con Python
 
 Este repositorio contiene ejercicios y proyectos de estructuras de datos y desarrollo de interfaces gráficas con Tkinter.
 
@@ -26,4 +26,4 @@ Este repositorio contiene ejercicios y proyectos de estructuras de datos y desar
 - Jupyter Notebooks
 
 ## Autor
-Estudiante de Estructuras de Datos
+Jesús Ruiz - Estudiante de Estructuras de Datos
